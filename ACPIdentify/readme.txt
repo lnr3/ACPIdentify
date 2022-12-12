@@ -2,6 +2,8 @@ This is the user guide of running anticancer peptides prediction model for the n
 
 First of all, download the Python source code, dataset and pretrained model to a Linux computer from https://github.com
 
+The predicted esm and pdb files are in the release
+
 Next, execute following commands:
 
 unzip ACPIdentify.zip
